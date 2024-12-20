@@ -1,0 +1,40 @@
+.body {
+    height: 100px;
+    margin: 0px;
+    background-color: rgba(67, 133, 255, 0.582);
+}
+
+
+
+
+.tbilisi {
+    color: white;
+    text-shadow: 2px 3px #000000;
+    z-index: 5;
+    margin-top: -550px;
+    margin-bottom: 0px;
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.enjoy-georgia {
+    margin-top: 150px;
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px #969696;
+}
+
+.lineone {
+    height: 1px;
+    background-color: #000000;
+    border: none;
+}
+.linetwo {
+    margin-top: 150px;
+    height: 1px;
+    background-color: #000000;
+    border: none;
+}
+

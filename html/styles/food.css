@@ -1,0 +1,29 @@
+.khinkali-pic {
+    width: 500px;
+    border-radius: 20px;
+    border-style: solid;
+    border-width: 2px;
+    margin-top: 15px;
+}
+
+.food-box {
+    margin-top: 20px;
+    display: flex;
+    border-style: solid;
+    border-radius: 20px;
+}
+
+.food-text {
+    margin-left: 20px;
+    color: white;
+    font-size: 18PX;
+    margin-top: 10px;
+    font-family: Roboto, Arial;
+}
+
+.h1 {
+    color: white;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 200px;
+}
